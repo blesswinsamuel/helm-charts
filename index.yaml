@@ -3,6 +3,21 @@ entries:
   goatcounter:
   - apiVersion: v2
     appVersion: 2.2.3
+    created: "2022-04-25T21:21:00.884209959Z"
+    description: A Helm chart for Kubernetes
+    digest: 6d8928b69a0c05623f270ab034c2955bca9c6396da9958ddab4b85f2c5120c4b
+    home: https://helm.sh/helm
+    maintainers:
+    - email: blesswinsamuel@gmail.com
+      name: Blesswin Samuel
+    name: goatcounter
+    sources:
+    - https://github.com/arp242/goatcounter
+    urls:
+    - https://github.com/blesswinsamuel/helm-charts/releases/download/goatcounter-0.0.8/goatcounter-0.0.8.tgz
+    version: 0.0.8
+  - apiVersion: v2
+    appVersion: 2.2.3
     created: "2022-04-25T21:07:33.662682025Z"
     description: A Helm chart for Kubernetes
     digest: bb62e154e60cea6882d7e0830fadaf1176a60f5f086b35966c5c8aca378c3e7e
@@ -16,4 +31,4 @@ entries:
     urls:
     - https://github.com/blesswinsamuel/helm-charts/releases/download/goatcounter-0.0.7/goatcounter-0.0.7.tgz
     version: 0.0.7
-generated: "2022-04-25T21:07:33.662687925Z"
+generated: "2022-04-25T21:21:00.884217059Z"
