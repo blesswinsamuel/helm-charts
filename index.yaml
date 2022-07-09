@@ -1,5 +1,33 @@
 apiVersion: v1
 entries:
+  alerting-rules:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2022-07-09T17:49:45.149191481Z"
+    description: A Helm chart for Kubernetes
+    digest: ab5b65ff3189fb9c8994ebf34bc8416cfc41c9ef68fca6c01a76f42a75bae74c
+    home: https://helm.sh/helm
+    maintainers:
+    - email: blesswinsamuel@gmail.com
+      name: Blesswin Samuel
+    name: alerting-rules
+    urls:
+    - https://github.com/blesswinsamuel/helm-charts/releases/download/alerting-rules-0.0.1/alerting-rules-0.0.1.tgz
+    version: 0.0.1
+  application:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2022-07-09T17:49:45.25785168Z"
+    description: A Helm chart for Kubernetes
+    digest: 30210b832c938d62f711b7298c9049e7e0d70107cc4529aad39f686c790c60b9
+    home: https://helm.sh/helm
+    maintainers:
+    - email: blesswinsamuel@gmail.com
+      name: Blesswin Samuel
+    name: application
+    urls:
+    - https://github.com/blesswinsamuel/helm-charts/releases/download/application-0.0.1/application-0.0.1.tgz
+    version: 0.0.1
   goatcounter:
   - apiVersion: v2
     appVersion: 2.2.3
@@ -151,4 +179,18 @@ entries:
     urls:
     - https://github.com/blesswinsamuel/helm-charts/releases/download/goatcounter-0.0.7/goatcounter-0.0.7.tgz
     version: 0.0.7
-generated: "2022-04-25T22:53:11.201918186Z"
+  grafana-dashboards:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2022-07-09T17:49:45.366322878Z"
+    description: A Helm chart for Kubernetes
+    digest: c7db2ff9b8dd8df381bfeadc22682622b57fa131fe3a9619dfb043d151d5f177
+    home: https://helm.sh/helm
+    maintainers:
+    - email: blesswinsamuel@gmail.com
+      name: Blesswin Samuel
+    name: grafana-dashboards
+    urls:
+    - https://github.com/blesswinsamuel/helm-charts/releases/download/grafana-dashboards-0.0.1/grafana-dashboards-0.0.1.tgz
+    version: 0.0.1
+generated: "2022-07-09T17:49:45.366484978Z"
