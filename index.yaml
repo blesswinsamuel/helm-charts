@@ -182,6 +182,19 @@ entries:
   grafana-dashboards:
   - apiVersion: v2
     appVersion: 1.0.0
+    created: "2022-07-09T18:00:48.10025947Z"
+    description: A Helm chart for Kubernetes
+    digest: 2aef9de009997db19ec095677444692ece5c5eb6d9df569d4d57bec0cbf5ec09
+    home: https://helm.sh/helm
+    maintainers:
+    - email: blesswinsamuel@gmail.com
+      name: Blesswin Samuel
+    name: grafana-dashboards
+    urls:
+    - https://github.com/blesswinsamuel/helm-charts/releases/download/grafana-dashboards-0.0.2/grafana-dashboards-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v2
+    appVersion: 1.0.0
     created: "2022-07-09T17:49:45.366322878Z"
     description: A Helm chart for Kubernetes
     digest: c7db2ff9b8dd8df381bfeadc22682622b57fa131fe3a9619dfb043d151d5f177
@@ -193,4 +206,4 @@ entries:
     urls:
     - https://github.com/blesswinsamuel/helm-charts/releases/download/grafana-dashboards-0.0.1/grafana-dashboards-0.0.1.tgz
     version: 0.0.1
-generated: "2022-07-09T17:49:45.366484978Z"
+generated: "2022-07-09T18:00:48.100304871Z"
