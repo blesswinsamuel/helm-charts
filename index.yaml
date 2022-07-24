@@ -30,6 +30,22 @@ entries:
     version: 0.0.1
   doppler-kubernetes-operator:
   - apiVersion: v2
+    created: "2022-07-24T19:08:42.329497765Z"
+    description: Automatically sync secrets from Doppler to Kubernetes and auto-reload
+      deployments when secrets change.
+    digest: c79f39267bc4fd97979b187d2fde121c4f5d4ec5117c80cb2941c8104ece9928
+    home: https://doppler.com
+    icon: https://doppler.com/imgs/logo_color.png
+    keywords:
+    - Doppler
+    - Secrets Manager
+    name: doppler-kubernetes-operator
+    sources:
+    - https://github.com/DopplerHQ/kubernetes-operator
+    urls:
+    - https://github.com/blesswinsamuel/helm-charts/releases/download/doppler-kubernetes-operator-1.0.2/doppler-kubernetes-operator-1.0.2.tgz
+    version: 1.0.2
+  - apiVersion: v2
     created: "2022-07-24T19:01:53.433014681Z"
     description: Automatically sync secrets from Doppler to Kubernetes and auto-reload
       deployments when secrets change.
@@ -236,4 +252,4 @@ entries:
     urls:
     - https://github.com/blesswinsamuel/helm-charts/releases/download/grafana-dashboards-0.0.1/grafana-dashboards-0.0.1.tgz
     version: 0.0.1
-generated: "2022-07-24T19:01:53.433062181Z"
+generated: "2022-07-24T19:08:42.329535366Z"
