@@ -64,6 +64,21 @@ entries:
   goatcounter:
   - apiVersion: v2
     appVersion: 2.2.3
+    created: "2022-07-25T21:46:20.580842915Z"
+    description: A Helm chart for Kubernetes
+    digest: 02dca5171c660465a02ea8ea82295e2c2bb59d1401346cd08fa9dcd6097c8728
+    home: https://helm.sh/helm
+    maintainers:
+    - email: blesswinsamuel@gmail.com
+      name: Blesswin Samuel
+    name: goatcounter
+    sources:
+    - https://github.com/arp242/goatcounter
+    urls:
+    - https://github.com/blesswinsamuel/helm-charts/releases/download/goatcounter-0.0.18/goatcounter-0.0.18.tgz
+    version: 0.0.18
+  - apiVersion: v2
+    appVersion: 2.2.3
     created: "2022-04-25T22:53:11.201875485Z"
     description: A Helm chart for Kubernetes
     digest: a29603e9c969527d93295ce00c54cc4adefd34271f116aa354adb972d6204f58
@@ -265,4 +280,4 @@ entries:
     urls:
     - https://github.com/blesswinsamuel/helm-charts/releases/download/grafana-dashboards-0.0.1/grafana-dashboards-0.0.1.tgz
     version: 0.0.1
-generated: "2022-07-25T21:43:20.745891982Z"
+generated: "2022-07-25T21:46:20.580905863Z"
